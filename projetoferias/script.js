@@ -49,4 +49,5 @@ document.addEventListener("DOMContentLoaded", function () {
     const dataFormatada = hoje.toLocaleDateString("pt-BR");
     textoAno.innerHTML = "Ano: 2026 | Acessado em: " + dataFormatada;
 
+<script src="script.js"></script>
 });
