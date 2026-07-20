@@ -51,13 +51,13 @@ body.modo-escuro {
     background-color: #B599CE;
     color: #FFFFFF;
 }
-body.modo-escuro .fundo escuro {
+body.modo-escuro .fundo-cinza {
     background-color: #A384C1;
 }
 body.modo-escuro .card {
     background-color: #A384C1;
     color: #FFFFFF;
-    bolder: 1px solid #C9B3DF;
+    border: 1px solid #C9B3DF;
 }
 body.modo-escuro .form-control {
     background-color: #C9B3DF;
