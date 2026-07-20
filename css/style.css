@@ -1,12 +1,12 @@
 /* Estilos Gerais do Site */
 body {
-    background-color: lavenderBlush;
-    color: thistle;
+    background-color: #FFF0F5 ;
+    color: #D8BFD8;
     transition: 0.3s;
 }
 
 .fundo-cinza {
-    background-color: LavenderBlush;
+    background-color: #FFF0F5;
 }
 
 .banner-principal {
@@ -17,12 +17,12 @@ body {
 }
 
 .btn-rosa {
-    background-color: thistle;
+    background-color: #D8BFD8;
     color: white;
     border: none;
 }
 .btn-rosa:hover {
-    background-color: #c59794;
+    background-color: #DDA0DD;
     color: white;
 }
 
@@ -43,18 +43,18 @@ body {
 
 /* MODO ESCURO */
 body.modo-escuro {
-    background-color: darkOrchid;
-    color: mediumOrchid;
+    background-color: #BA55D3;
+    color: #DA70D6;
 }
-body.modo-escuro .fundo-cinza {
-    background-color: #1e1e1e;
+body.modo-escuro .fundo escuro {
+    background-color: #BA55D3;
 }
 body.modo-escuro .card {
-    background-color: #242424;
-    color: #ffffff;
+    background-color: #DA70D6;
+    color: #DA70D6;
 }
 body.modo-escuro .form-control {
-    background-color: #333333;
-    color: #ffffff;
-    border-color: #555555;
+    background-color: #BA55D3;
+    color: #DA70D6;
+    border-color: #BA55D3;
 }
