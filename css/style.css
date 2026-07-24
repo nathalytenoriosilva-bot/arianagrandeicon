@@ -66,10 +66,13 @@ body.modo-escuro .form-control {
     border-color: #B599CE;
 }
 
-/* Tamanho e ajuste da Logo */
-.logo-site {
-    height: 40px;          
-    width: auto;           
+/* Tamanho da Logo no Menu (Força máxima) */
+.navbar-brand img.logo-site,
+img.logo-site {
+    height: 35px;       
+    width: auto;        
+    max-height: 40px;   
     object-fit: contain;
-    border-radius: 50%;    
+    border-radius: 50%;            
 }
+
