@@ -65,3 +65,11 @@ body.modo-escuro .form-control {
     color: #332244;
     border-color: #B599CE;
 }
+
+/* Tamanho e ajuste da Logo */
+.logo-site {
+    height: 40px;          
+    width: auto;           
+    object-fit: contain;
+    border-radius: 50%;    
+}
